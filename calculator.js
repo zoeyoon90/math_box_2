@@ -13,3 +13,6 @@ const divide = (a, b) => a / b; {
   return a / b;
 }
 
+
+//나눗셈 무료 버전
+const divide_for_premium = (a, b) => a / b;
